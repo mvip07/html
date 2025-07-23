@@ -8,7 +8,7 @@ U yordamida matnlar, rasmlar, tugmalar, ro'yxatlar, videolar va boshqa elementla
 
 ---
 
-## 🏷️ **<DOCTYPE html> nima?**
+## 🏷️ **DOCTYPE html nima?**
 
 Brauzerga bu **HTML5** ekanini aytadi. Har doim faylning eng yuqorisida yoziladi.
 
